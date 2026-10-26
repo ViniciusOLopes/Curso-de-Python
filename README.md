@@ -1,4 +1,4 @@
- ##  Curso de Python - Curso em Vídeo
+ ## ![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)   Curso de Python - Curso em Vídeo
 
 Repositório criado para organizar e documentar todos os exercícios, desafios e projetos práticos desenvolvidos por mim durante o renomado **Curso de Python** do professor Gustavo Guanabara, na plataforma **Curso em Vídeo**.
 
