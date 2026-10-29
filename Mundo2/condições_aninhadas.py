@@ -1,5 +1,7 @@
 """
 print('Exercício 36:')
+print('═' * 15)
+
 salario = float(input('Digite o seu salario:'))
 preco_casa = float(input('Digite o valor da casa: '))
 tempo = int(input('Digite o valor em anos que vc quer pagar a casa:'))

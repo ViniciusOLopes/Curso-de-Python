@@ -2,6 +2,8 @@ from dataclasses import dataclass
 import os
 '''
 print('Exercício 58:')
+print('═' * 15)
+
 sexo = input('Escreva seu sexo/ genero:\nEscreva M para masculino, F para feminino e O para outro: ')
 while sexo != 'M' and sexo != 'F' and sexo != 'O':
     print('Opção n identificada: ')
@@ -14,6 +16,8 @@ else:
     print('Você escolheu M, Masculino.')
 
 print('Exercício 59:')
+print('═' * 15)
+
 opçao:int = 0
 while opçao != 5:
     num1 = float(input('Escolha o primeiro número: '))
@@ -47,6 +51,8 @@ while opçao != 5:
 print('Fim do programa, obrigado por participar.')
 
 print('Exercício 060:')
+print('═' * 15)
+
 num = int(input('Digite um número para descobrir seu fatorial: '))
 print('{}! = '.format(num), end='')
 fat = 1
@@ -58,6 +64,8 @@ while num >1:
 print('1 = {}'.format(fat))
 
 print('Exercício 065:')
+print('═' * 15)
+
 num = 'A'
 max = -999999999
 min = 9999999999
@@ -75,6 +83,8 @@ while num != 'n':
 print('A soma dos digitos é: {}\nO maior digitado: {}\nO menor: {}'.format(soma, max, min))
 
 print('Exercio 069')
+print('═' * 15)
+
 
 @dataclass
 class Pessoa:
