@@ -61,8 +61,12 @@ Para rodar qualquer um dos scripts na sua máquina, siga os passos abaixo:
 ### 🔹 Para os Jupyter Notebooks (Mundo 3)
 1. Certifique-se de que a extensão **Jupyter** está instalada no seu VS Code.
 2. Ative o seu ambiente virtual (`venv`) para garantir as dependências do Kernel.
-3. Abra o arquivo `.ipynb` desejado diretamente no VS Code.
-4. Execute célula por célula clicando no botão de *Play* ao lado de cada bloco de código.
+3. Abra o arquivo `.ipynb` desejado diretamente no VS Code.`.ipynb`.
+4. Depois no canto superior direito, clique no botão "__Select Kernel__"
+5. No menu que se abre no topo, clique em "__Python Environments...__"
+6. Clique na primeira opção: "__+ Create Python Environment...__", e escolha a opção __venv__.
+7. O VS Code vai perguntar qual versão do __Python__ você quer usar. Selecione o __Python 3.12__.
+9. Execute célula por célula clicando no botão de *Play* ao lado de cada bloco de código.
 
 ---
 *Este repositório foi criado com fins estritamente educacionais.*
