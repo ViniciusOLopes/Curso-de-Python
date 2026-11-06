@@ -32,7 +32,7 @@ Aprofundamento em condições e introdução às estruturas de repetição e loo
 
 ### 🌌 Mundo 3: Estruturas Compostas
 Exploração de coleções de dados avançadas, funções, tratamento de erros e criação de módulos.
-* [ ] Exercícios de 072 a 89 (ainda n terminei mundo 3).
+* [ ] Exercícios de 072 a 115.
 * **Formatos:** Notebooks Interativos (`.ipynb`) — ideal para visualizar estruturas de dados complexas passo a passo.
 * **Principais conceitos:** Tuplas, Listas,  Dicionários, Funções (`def`), Modularização (Pacotes) e Tratamento de Erros/Exceções.
 
@@ -50,7 +50,11 @@ Para rodar qualquer um dos scripts na sua máquina, siga os passos abaixo:
 2. **Entre na pasta do projeto:**
    ```bash
    cd Mundo1
+   ```
+   ```bash
    cd Mundo2
+   ```
+   ```bash
    cd Mundo3
    ```
 
